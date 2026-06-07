@@ -1,0 +1,28 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# NovaTrust AI Banking Assistant – Capstone Project
+# Python >= 3.10 required
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Core LangChain
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+
+# LLM Provider – Groq (fast, free-tier available)
+langchain-groq>=0.1.9
+groq>=0.9.0
+
+# Embeddings – HuggingFace local (no API key required)
+langchain-huggingface>=0.0.3
+sentence-transformers>=2.7.0
+
+# Vector Store – FAISS (local, no server required)
+faiss-cpu>=1.7.4
+
+# Deployment UI
+streamlit>=1.35.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+tiktoken>=0.7.0
