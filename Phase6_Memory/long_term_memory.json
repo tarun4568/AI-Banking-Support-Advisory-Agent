@@ -1,0 +1,36 @@
+{
+  "sessions": [
+    {
+      "id": "sess-20260425_152347",
+      "started": "2026-04-25T15:23:47.627981",
+      "turns": 0
+    },
+    {
+      "id": "sess-20260425_152521",
+      "started": "2026-04-25T15:25:21.558675",
+      "turns": 6,
+      "ended": "2026-04-25T15:25:31.275835"
+    }
+  ],
+  "topics_discussed": [
+    "Home Loans",
+    "Fixed Deposits"
+  ],
+  "products_of_interest": [
+    {
+      "product": "Fixed Deposits",
+      "date": "2026-04-25"
+    },
+    {
+      "product": "Fixed Deposits",
+      "date": "2026-04-25"
+    }
+  ],
+  "escalation_history": [],
+  "preferences": {
+    "verbosity": "medium",
+    "language": "english"
+  },
+  "last_seen": "2026-04-25T15:25:21.558675",
+  "total_sessions": 2
+}

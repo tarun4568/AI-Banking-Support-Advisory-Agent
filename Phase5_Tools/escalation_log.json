@@ -1,0 +1,9 @@
+[
+  {
+    "ticket_id": "ESC-20260425151556",
+    "timestamp": "2026-04-25T15:15:56.607488",
+    "reason": "unauthorized transactions and poor customer support",
+    "urgency": "urgent",
+    "status": "PENDING_HUMAN_REVIEW"
+  }
+]

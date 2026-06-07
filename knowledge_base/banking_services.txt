@@ -1,0 +1,177 @@
+NOVATRUST BANK – DIGITAL & BRANCH SERVICES GUIDE
+=================================================
+Last Updated: April 2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: NOVATRUST MOBILE APP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+App Name     : NovaTrust Bank – Mobile Banking
+Availability : iOS (App Store), Android (Google Play)
+Current Version: 6.8.2 (April 2026)
+Languages    : English, Hindi, Tamil, Telugu, Bengali, Marathi, Gujarati
+
+Key Features:
+1. Account Management
+   - Real-time balance & statements (up to 2 years).
+   - Set account nicknames for easy identification.
+   - Download statements in PDF or Excel format.
+
+2. Payments & Transfers
+   - UPI payments (NovaTrust BHIM UPI).
+   - IMPS: Instant 24/7 transfers.
+   - NEFT/RTGS: Scheduled or immediate.
+   - Bill payment: Electricity, water, gas, broadband, insurance.
+   - Mobile/DTH recharge.
+   - FASTag recharge.
+   - NovaTrust Scan & Pay (QR-based).
+
+3. Investments
+   - Open Fixed Deposit (from ₹10,000).
+   - Open Recurring Deposit (from ₹500/month).
+   - Tax-Saver FD (Section 80C).
+
+4. Loans
+   - View loan account details and EMI schedule.
+   - Prepayment requests (with forecast of savings).
+   - Apply for pre-approved personal loan.
+
+5. Card Services
+   - Block/unblock debit and credit cards.
+   - Change ATM PIN (using OTP authentication).
+   - Set daily transaction limits.
+   - Enable/disable international usage.
+   - Enable/disable contactless payments.
+   - Request physical credit card upgrade.
+
+6. Locker Information (where applicable)
+   - View locker status and renewal due date.
+
+7. Service Requests (raised inside app, tracked with CRN):
+   - Cheque book request.
+   - Address change request (KYC re-verification required).
+   - Nomination update.
+   - Complaint registration.
+
+Security Features on App:
+   - Biometric (fingerprint / Face ID) login.
+   - 6-digit MPIN as alternative.
+   - Device binding: App can only be used on one registered device.
+   - Session auto-logout: After 5 minutes of inactivity.
+   - Screenshot disabled for security screens.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: NET BANKING (www.novatrust.in)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NetBanking is available 24/7 via www.novatrust.in for:
+   - All features of the mobile app.
+   - Additional: RTGS scheduling, bulk NEFT (for business).
+   - Download annual interest certificate for FDs (for IT filing).
+   - Form 15G/15H submission (online, no branch visit needed).
+   - Tax payment (Direct Tax, GST via NSDL, GSTN integration).
+   - Generate account statement for visa applications.
+
+Login credentials:
+   - Customer ID (9-digit number, found on passbook or welcome letter).
+   - Password (set by customer; case-sensitive).
+   - Transaction Password (separate for transaction authorisation).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: BRANCH SERVICES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Services available only at branch:
+1. Account opening, closure, and type conversion.
+2. KYC update (address, name change, mobile if app fails).
+3. Physical cheque deposit and cash deposit above app limits.
+4. Demand Draft (DD) issuance.
+5. Safe Deposit Locker: Allotment, nomination, and access.
+6. Loan documentation submission and disbursement.
+7. Signature update.
+8. Senior citizen priority banking services.
+
+Safe Deposit Lockers:
+   - Available at 1,200+ branches.
+   - Sizes: Small (₹1,500–₹2,500/year), Medium (₹3,000–₹4,500/year),
+     Large (₹5,000–₹8,000/year), Extra Large (on request).
+   - Key-operated with dual-key system (bank retains one key).
+   - CCTV monitored vault access.
+   - Access hours: Branch working hours only.
+   - Waiting list: Register at branch if no locker currently available.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: NOVATRUST INSURANCE PRODUCTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NovaTrust distributes (does not underwrite) insurance products as a corporate agent.
+
+4.1 Life Insurance
+   Partner: NovaTrust Life Insurance Co. Ltd. (NovaTrust holds 25% stake).
+   Products offered:
+   • Term Insurance: Pure protection; ₹50 lakh–₹5 crore cover; online issuance.
+   • Endowment Plan: Savings + protection; maturity benefit.
+   • Unit-Linked Insurance Plans (ULIPs): Market-linked returns + life cover.
+   • Child Plan: Education corpus building.
+   Important: These are insurance products, not bank deposits. Market risk applicable to ULIPs.
+
+4.2 General Insurance
+   Partner: NovaTrust General Insurance Ltd.
+   Products:
+   • Home Insurance: Structure and contents cover.
+   • Motor Insurance: Comprehensive and third-party.
+   • Health Insurance: Individual and floater plans.
+   • Personal Accident Insurance.
+   Important: Premiums vary. Coverage subject to policy terms and conditions.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: NOVATRUST INVESTMENT SERVICES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NovaTrust distributes investment products as a SEBI-registered distributor.
+
+5.1 Mutual Funds
+   Platform: NovaTrust MF Marketplace (app + web).
+   Minimum SIP: ₹500/month.
+   Minimum Lumpsum: ₹5,000.
+   AMC Partners: All 44 SEBI-registered AMCs available.
+   KYC Requirement: Aadhaar-based eKYC via NovaTrust platform.
+   Important: Mutual funds are subject to market risks. Read all scheme documents
+   carefully before investing. Past returns do not guarantee future returns.
+
+5.2 Demat & Trading Account
+   Powered by: NovaTrust Securities Ltd. (SEBI registered broker).
+   Open Demat: Via NovaTrust app (paperless, takes 3–5 business days).
+   Brokerage: ₹15 per order (equity delivery); ₹20 per order (intraday, F&O).
+   Features: Live market data, research reports, portfolio tracking.
+
+5.3 National Pension System (NPS)
+   NovaTrust is a Point of Presence (PoP) for NPS under PFRDA.
+   Open NPS account online via NetBanking or at any branch.
+   Tax benefit: Up to ₹2 lakh under Section 80C + ₹50,000 additional under 80CCD(1B).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: ESCALATION CHANNELS & CONTACT DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Customer Service Touchpoints:
+  • 24/7 Phone: 1800-NOVA-123 (toll-free from BSNL/MTNL/private)
+  • International: +91-22-6682-1234
+  • Email: customercare@novatrust.in
+  • Fraud Hotline: 1800-NOVA-FRAUD (1800-6682-37283) — 24/7 dedicated
+  • WhatsApp: +91 98765 43210 (9 AM–9 PM, text only)
+  • Social Media: @NovaTrustBank (Twitter/X, Facebook) — official response within 4 hours
+  • Branch: Walk in during branch hours with ID proof
+
+Nodal Officer (for escalations):
+  Nodal Officer, NovaTrust Bank Ltd.
+  NovaTrust Center, BKC, Mumbai – 400051
+  Email: nodalofficer@novatrust.in
+  Phone: 022-6682-9900
+
+Principal Nodal Officer:
+  principal.nodal@novatrust.in | 022-6682-9910
+
+RBI Banking Ombudsman:
+  File online: https://cms.rbi.org.in
+  Required: Resolution attempt with bank of at least 30 days.

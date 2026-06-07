@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "total_interactions": 0,
+  "response_length_score": 0.5,
+  "topics": {},
+  "refusal_feedback": {
+    "appropriate_count": 0,
+    "inappropriate_count": 0
+  },
+  "escalation_feedback": {
+    "appropriate_count": 0,
+    "inappropriate_count": 0
+  },
+  "overall_rating_sum": 0,
+  "overall_rating_count": 0,
+  "negative_feedback_streak": 0,
+  "behaviour_adjustments": {
+    "max_response_tokens": 512,
+    "add_caveats": false,
+    "proactive_escalation_threshold": 0.7
+  },
+  "feedback_history": []
+}

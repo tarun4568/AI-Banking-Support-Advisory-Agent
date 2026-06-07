@@ -1,0 +1,211 @@
+NOVATRUST BANK – POLICIES & PROCEDURES GUIDE
+=============================================
+Last Updated: April 2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: ACCOUNT OPENING POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1.1 Know Your Customer (KYC) Requirements
+───────────────────────────────────────────
+All individuals opening accounts at NovaTrust Bank must complete KYC as per
+RBI guidelines. KYC is mandatory and non-negotiable.
+
+Officially Valid Documents (OVDs) accepted:
+  Identity Proof (any one):
+  • Aadhaar Card (mandatory for eCKYC)
+  • PAN Card
+  • Passport
+  • Voter ID Card
+  • Driving Licence
+  • NREGA Job Card
+
+  Address Proof (any one if address differs from ID proof):
+  • Utility bills (not older than 3 months)
+  • Bank statement with address (not older than 3 months)
+  • Rent agreement (registered)
+  • Letter from employer on official letterhead
+
+Additional Requirements for Minors (below 18):
+  • Guardian's complete KYC documents.
+  • Birth certificate of the minor.
+  • School ID card (if available).
+
+1.2 Account Opening Process
+─────────────────────────────
+Step 1: Visit any NovaTrust branch or apply online at www.novatrust.in.
+Step 2: Fill out the account opening form (AOF) — available online or at branch.
+Step 3: Submit self-attested KYC documents.
+Step 4: Fund initial deposit (if minimum balance account).
+Step 5: Account activated within 1 business day for in-person; 2–3 days for online.
+Step 6: Debit card and cheque book dispatched within 7–10 working days.
+Step 7: NetBanking credentials sent to registered email within 3 working days.
+
+1.3 eCKYC (Aadhaar-based Paperless KYC)
+─────────────────────────────────────────
+NovaTrust offers eCKYC using Aadhaar OTP-based authentication.
+This is the fastest way to open a savings account, completed in under 10 minutes.
+Applicable for residents with Aadhaar-linked mobile number.
+Account becomes fully operational after successful eCKYC.
+
+1.4 Non-Resident Indian (NRI) Accounts
+──────────────────────────────────────
+NovaTrust offers:
+  • NRE (Non-Resident External) Savings Account: Fully repatriable; interest tax-free in India.
+  • NRO (Non-Resident Ordinary) Savings Account: For income earned in India (rent, dividends).
+  • FCNR (Foreign Currency Non-Resident) Deposits: Hold money in USD, GBP, EUR, AUD, SGD.
+Additional documents: Passport with visa, overseas address proof, NRI declaration form.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: ATM & CARD POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 Debit Card Usage Limits (Default, can be changed by customer)
+────────────────────────────────────────────────────────────────────
+  • Daily cash withdrawal (ATM): ₹25,000 (Classic) | ₹50,000 (Platinum).
+  • Daily POS/online spending: ₹1,00,000 (Classic) | ₹3,00,000 (Platinum).
+  • International usage: Disabled by default; enable via app or branch.
+
+2.2 Lost or Stolen Card
+────────────────────────
+Immediately hotlist (block) card through:
+  • NovaTrust Mobile App → Cards → Block Card.
+  • NetBanking → Services → Card Management → Block.
+  • Call 24/7 helpline: 1800-NOVA-123 (toll-free).
+  • Visit any branch with ID proof.
+Replacement card issued within 5–7 working days; express delivery available.
+Zero liability on fraudulent transactions reported within 3 working days.
+Partial liability (max ₹10,000) for transactions reported after 3 but within 7 days.
+
+2.3 Credit Card Billing Cycle
+───────────────────────────────
+  • Billing date: Fixed as per card issue date (shown on statement).
+  • Payment due date: 20 days after billing date.
+  • Minimum amount due: 5% of outstanding or ₹500, whichever is higher.
+  • Late payment charges: ₹100–₹1,300 depending on outstanding balance.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: FUND TRANSFER POLICIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3.1 NEFT (National Electronic Funds Transfer)
+───────────────────────────────────────────────
+Timings: Available 24x7 (as per RBI circular, December 2019).
+Settlement: In 30-minute batches; within 2 hours typically.
+Customer-facing limits: ₹10 lakh per transaction via NetBanking (can be changed with RM).
+Charges: Free online; ₹2–₹25 via branch depending on amount.
+
+3.2 RTGS (Real Time Gross Settlement)
+────────────────────────────────────────
+Minimum Amount: ₹2 lakh.
+Timings: 24x7 (RBI circular CIR-2020-0070).
+Settlement: Real-time (within minutes).
+Charges: Free online; ₹25–₹50 via branch.
+
+3.3 IMPS (Immediate Payment Service)
+──────────────────────────────────────
+Available: 24x7 including weekends and holidays.
+Limit: Up to ₹5 lakh per transaction via mobile app/NetBanking.
+Charges: ₹5–₹15 + GST depending on amount band.
+
+3.4 UPI (Unified Payments Interface)
+──────────────────────────────────────
+NovaTrust VPA format: customerID@novatrust
+Daily limit per transaction: ₹1 lakh (₹2 lakh for verified merchants).
+Daily overall limit: ₹1 lakh (unless enhanced by bank).
+Available on: NovaTrust Bhim UPI, Google Pay, PhonePe, Paytm.
+Dispute resolution: Raise UPI dispute via app within 30 days of transaction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: SECURITY & FRAUD PREVENTION POLICIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1 Two-Factor Authentication (2FA)
+──────────────────────────────────────
+All NetBanking and mobile app transactions require:
+  1. Login password / MPIN.
+  2. OTP on registered mobile number.
+Credit/debit card online transactions require 3D Secure OTP.
+NovaTrust will NEVER ask for your password, PIN, OTP, or CVV via phone/email/chat.
+
+4.2 Safe Banking Tips
+───────────────────────
+  • Never share OTP, PIN, or password with anyone — not even bank staff.
+  • Verify the NovaTrust website URL: always https://www.novatrust.in.
+  • Do not click links in unsolicited SMS/email claiming to be from NovaTrust.
+  • Update registered mobile number promptly if it changes.
+  • Enable transaction alerts via SMS and email.
+  • Review bank statements monthly; report discrepancies immediately.
+
+4.3 Fraud Reporting
+─────────────────────
+Report suspected fraud immediately:
+  • 24/7 Fraud Hotline: 1800-NOVA-FRAUD (1800-6682-37283).
+  • Cybercrime Portal: www.cybercrime.gov.in.
+  • Nearest NovaTrust branch.
+Response: Bank will block affected accounts and cards within 4 hours of verified report.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: COMPLAINT RESOLUTION POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5.1 Grievance Redressal Process
+──────────────────────────────────
+Level 1 – Customer Service:
+  Register complaint via: Mobile app / NetBanking / Phone 1800-NOVA-123 / Branch.
+  Resolution time: Within 5 business days for most issues.
+  Complaint Reference Number (CRN): Provided immediately; use to track status.
+
+Level 2 – Nodal Officer:
+  If not resolved in 5 days or dissatisfied: Escalate to zonal nodal officer.
+  Email: nodalofficer@novatrust.in | Response within 10 business days.
+
+Level 3 – Principal Nodal Officer:
+  For unresolved grievances: principal.nodal@novatrust.in.
+  Response within 15 business days.
+
+Level 4 – Banking Ombudsman (RBI):
+  If not resolved within 30 days or solution unsatisfactory.
+  File at: https://cms.rbi.org.in (free service).
+  Powers: Can award compensation up to ₹20 lakh.
+
+5.2 Common Complaint Types & TAT
+──────────────────────────────────
+  • Disputed ATM/POS transaction: 5–7 business days.
+  • Disputed credit card charge: 7–10 business days.
+  • Account debited but transfer failed: Credit within 1 business day.
+  • Cheque clearing dispute: 24 hours after investigation.
+  • KYC-related account freeze: 3–5 business days.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6: ACCOUNT CLOSURE & DORMANCY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6.1 Account Closure
+──────────────────────
+Request account closure: Visit home branch with ID proof and original passbook/card.
+Close within 12 months: No charge (for Classic accounts).
+Close after 12 months: No charge.
+Close within 14 days of opening: No charge.
+Outstanding dues: Must be cleared before closure.
+Standing instructions: Must be cancelled before closure request.
+
+6.2 Dormant Account Policy
+────────────────────────────
+Account becomes dormant if no customer-initiated transaction in 12 months.
+Account freezes (no debits allowed) if no transaction in 24 months.
+Reactivation: Visit branch with KYC documents and a written reactivation request.
+Unclaimed deposits: Transferred to RBI's Depositor Education and Awareness (DEA) Fund after 10 years.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7: NOMINATION POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Nomination allows a designated person to receive account funds upon the
+account holder's death, simplifying the legal process.
+
+  • How to add: Form DA-1 available at branch or online portal.
+  • One nominee per account (joint accounts can have different nominees).
+  • Nominee can be changed or cancelled anytime by the account holder.
+  • Nomination does not create legal title — nominee acts as trustee for legal heirs.
+  • For FDs and lockers, separate nomination forms required.

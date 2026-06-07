@@ -1,0 +1,216 @@
+NOVATRUST BANK – FREQUENTLY ASKED QUESTIONS (FAQ)
+===================================================
+Last Updated: April 2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORY 1: ACCOUNT MANAGEMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: How do I check my account balance?
+A: You can check your balance through multiple channels:
+   1. NovaTrust Mobile App → Dashboard → Account Summary.
+   2. NetBanking → Accounts → Account Summary.
+   3. NovaTrust ATM → Balance Enquiry (no charge).
+   4. SMS: Type BAL <last 4 digits of account> and send to 56161.
+   5. Missed call: 1800-NOVA-BAL (1800-6682-225) from registered mobile.
+   6. Passbook update at any branch or passbook kiosk.
+
+Q: How do I update my registered mobile number?
+A: Visit your home branch with Aadhaar and PAN card. Submit a mobile number
+   update form. Change is effective within 2 business days. For Premium account
+   holders, the relationship manager can process this within 24 hours.
+   Note: Mobile number cannot be updated via app or NetBanking for security reasons.
+
+Q: How do I reset my NetBanking password?
+A: Option 1 (Online): Go to www.novatrust.in → NetBanking Login → Forgot Password.
+   Enter customer ID, date of birth, and registered mobile OTP.
+   Option 2 (Branch): Visit any branch with photo ID. Password reset completed instantly.
+   Locked accounts (after 3 wrong attempts) are automatically unlocked after 24 hours
+   or immediately upon branch visit.
+
+Q: Can I have multiple accounts at NovaTrust?
+A: Yes. Customers can hold:
+   • One primary savings account.
+   • Additional savings accounts for specific purposes (e.g., goals, kids).
+   • Multiple FDs and RDs.
+   • One current account (per business entity).
+   Note: Multiple savings accounts must each maintain minimum balance separately.
+
+Q: How do I add a joint holder to my account?
+A: Visit your home branch with both account holders' KYC documents.
+   Fill out Form JP-3 (Joint Account Addition).
+   Processing time: 3–5 business days.
+   Joint holder types: "Either or Survivor" (most common) or "Jointly" (both signatures needed).
+
+Q: What happens if I miss the minimum balance requirement?
+A: A non-maintenance charge (NMC) of ₹200 + GST per quarter is levied.
+   You receive an SMS notification 7 days before the quarter end if balance is below minimum.
+   First-time NMC may be reversed on customer request (one-time goodwill waiver per account).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORY 2: DIGITAL BANKING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: What can I do on the NovaTrust Mobile App?
+A: The NovaTrust Mobile App (available on iOS and Android) offers:
+   • Account balance and transaction history.
+   • Fund transfers: NEFT, RTGS, IMPS, UPI.
+   • Fixed Deposit opening and closure.
+   • Recurring Deposit management.
+   • Cheque book requests (delivered in 7–10 days).
+   • Debit/credit card management: block, unblock, limit changes, PIN change.
+   • Loan account details and EMI calendar.
+   • Pay utility bills (electricity, water, gas, mobile recharge).
+   • Tax-saving FD investment.
+   • Branch and ATM locator.
+   • Raise service requests and track complaints.
+   Download from App Store or Google Play searching "NovaTrust Bank".
+
+Q: Is internet banking safe? What security measures does NovaTrust have?
+A: NovaTrust NetBanking uses:
+   • 256-bit SSL encryption for all data transmission.
+   • Two-factor authentication (2FA) with OTP for every transaction.
+   • Session timeout after 5 minutes of inactivity.
+   • Device registration for trusted logins.
+   • Transaction alerts via SMS and email for every debit/credit.
+   • Cooling period of 4 hours for new payee registration before first transfer.
+   Remember: NovaTrust staff will NEVER ask for your OTP, PIN, or password.
+
+Q: How do I activate UPI on my NovaTrust account?
+A: Option 1 – NovaTrust App: Download → Register → Set UPI PIN using debit card details.
+   Your VPA (virtual payment address) will be yourID@novatrust.
+   Option 2 – Third-party apps: Select NovaTrust bank during UPI setup;
+   authenticate with debit card OTP sent to registered mobile.
+
+Q: My transaction failed but money was debited. What should I do?
+A: In most cases, the amount is automatically reversed within 24–48 hours.
+   If not received after 48 hours:
+   1. Raise a dispute via Mobile App → Transactions → Dispute.
+   2. Call 1800-NOVA-123 with reference number.
+   3. Visit any branch.
+   The bank will investigate and reverse confirmed failed transactions within 5 business days.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORY 3: LOANS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: How do I check my loan eligibility?
+A: Use the online eligibility calculator at www.novatrust.in/loan-eligibility.
+   Enter your: income, existing EMIs, age, employment type.
+   The calculator gives an indicative eligible loan amount.
+   For accurate eligibility, approach any branch or relationship manager.
+   Note: The calculator result is indicative only and does not constitute an approval.
+
+Q: How is my EMI calculated?
+A: EMI = [P × R × (1+R)^N] / [(1+R)^N - 1]
+   Where: P = Principal loan amount, R = Monthly interest rate (annual rate / 12 / 100),
+   N = Loan tenure in months.
+   Example: ₹10,00,000 home loan at 8.5% p.a. for 20 years:
+   R = 8.5/12/100 = 0.007083; N = 240
+   EMI ≈ ₹8,678 per month.
+   Use our online calculator at www.novatrust.in/emi-calculator for your specific values.
+
+Q: What is the difference between fixed and floating rate?
+A: Fixed Rate: Interest rate stays the same throughout the loan tenure.
+   Pros: Predictable EMI; protection against rate hikes.
+   Cons: Higher initial rate; no benefit if rates fall; prepayment penalty.
+   Floating Rate: Rate changes with RBI's repo rate changes (linked to EBLR).
+   Pros: Generally lower than fixed; EMI reduces if rates fall.
+   Cons: EMI may increase if rates rise; harder to plan long-term.
+
+Q: Can I prepay my loan?
+A: Home Loan (floating rate): Nil prepayment penalty (RBI mandate).
+   Home Loan (fixed rate): 2% penalty if prepaying from own funds within 3 years.
+   Personal Loan: Allowed after 6 EMIs; 2% part-prepayment charge; 3% foreclosure charge.
+   Car Loan: Part-payment allowed after 12 EMIs; 2% charge; full foreclosure 3%.
+
+Q: What is a CIBIL score and why does it matter for loans?
+A: CIBIL score (Credit Score) is a 3-digit number (300–900) summarising your credit history.
+   NovaTrust uses it to assess loan applications:
+   750–900: Excellent – best rates, high approval likelihood.
+   700–749: Good – generally approved with standard rates.
+   650–699: Fair – may be approved with higher rates.
+   Below 650: Poor – likely declined; improve first.
+   Free CIBIL check: www.cibil.com (once per year free; ₹550 for additional checks).
+   Improving score: Pay EMIs on time, reduce credit card utilisation, avoid multiple loan applications.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORY 4: FIXED DEPOSITS & INVESTMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: Can I break my Fixed Deposit early?
+A: Yes. Premature closure is allowed with a 1% penalty on the applicable rate.
+   Example: If you booked FD at 7% for 2 years but break it at 1 year,
+   the applicable rate for 1 year is 6.5%, and you get 6.5% – 1% = 5.5%.
+   Tax-Saver FD (80C): Premature closure NOT allowed in first 5 years.
+   FD linked as loan collateral: Cannot break until loan is cleared.
+
+Q: How is FD interest taxed?
+A: FD interest is taxable as "Income from Other Sources" at your income tax slab rate.
+   TDS is deducted at source at 10% if interest exceeds ₹40,000 per year.
+   (₹50,000 for senior citizens).
+   To avoid TDS: Submit Form 15G (non-senior) or 15H (senior citizen) declaring
+   that your total income is below taxable limit.
+   Please consult a tax advisor for advice specific to your tax situation.
+
+Q: What is the DICGC insurance cover on deposits?
+A: The Deposit Insurance and Credit Guarantee Corporation (DICGC) insures bank deposits.
+   Coverage: Up to ₹5 lakh per depositor per bank (including principal and interest).
+   This covers savings, FD, RD, and current accounts.
+   NovaTrust Bank is insured under DICGC.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORY 5: INTERNATIONAL BANKING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: How do I enable international usage on my debit card?
+A: International usage is disabled by default on all debit cards.
+   Enable via:
+   1. NovaTrust App → Cards → International Usage → Enable.
+   2. NetBanking → Cards → Manage Card → Enable International.
+   3. Call 1800-NOVA-123.
+   4. Branch visit.
+   Enable only for the duration of travel and disable on return for safety.
+
+Q: What is the forex markup on NovaTrust cards?
+A: Foreign currency transactions attract:
+   • RuPay Classic Debit: 3.5% markup.
+   • Visa Platinum Debit: 2.0% markup.
+   • RuPay Classic Credit: 3.0% markup.
+   • Visa Gold Credit: 2.0% markup.
+   • Visa Platinum Credit: 1.5% markup.
+   Additionally, VISA/Mastercard/RuPay charges a 1% cross-border fee.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CATEGORY 6: BRANCH & CUSTOMER SERVICE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: What are NovaTrust branch working hours?
+A: Standard branch hours: Monday–Friday 9:30 AM–3:30 PM (counter services).
+   Extended services (no new transactions): 3:30 PM–5:00 PM.
+   Saturday: 9:30 AM–12:30 PM (first and third Saturday; alternate Saturdays closed).
+   Sunday and public holidays: Closed.
+   Digital banking (app/NetBanking): Available 24/7.
+
+Q: How do I find the nearest NovaTrust branch or ATM?
+A: Use the Branch & ATM Locator:
+   • NovaTrust App → Locate → Branch or ATM.
+   • Website: www.novatrust.in/locate.
+   • Google Maps: Search "NovaTrust Bank near me".
+   NovaTrust has 2,400+ branches and 6,000+ ATMs across India.
+
+Q: What is the customer service helpline number?
+A: Toll-free: 1800-NOVA-123 (1800-6682-123) – available 24/7.
+   Premium helpline (Premium account holders): 1800-NOVA-PREM (priority queue).
+   International callers: +91-22-6682-1234.
+   Email: customercare@novatrust.in (response within 2 business days).
+   Chat: Available on website and mobile app.
+
+Q: How do I stop payment on a cheque?
+A: To stop a cheque payment:
+   1. Mobile App → Services → Stop Cheque Payment.
+   2. NetBanking → Services → Cheque Services → Stop Payment.
+   3. Call 1800-NOVA-123 (before cheque is presented).
+   4. Visit branch with written request.
+   Fee: ₹100 + GST per cheque.
+   Note: A cheque that has already been encashed cannot be stopped.

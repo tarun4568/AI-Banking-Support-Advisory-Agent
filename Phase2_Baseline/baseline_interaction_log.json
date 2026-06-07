@@ -1,0 +1,55 @@
+{
+  "timestamp": "2026-04-25T14:48:01.509651",
+  "agent_version": "baseline_v1.0",
+  "interactions": [
+    {
+      "label": "Q1 \u2013 Product info",
+      "input": "What are the FD interest rates?",
+      "intent": "fd_rates",
+      "response": "NovaTrust Fixed Deposit interest rates (April 2026):\n\u2022 1 year to < 2 years: 7.00% (General) | 7.50% (Senior)\n\u2022 2 years to < 3 years: 7.25% (General) | 7.75% (Senior)\n\u2022 3 to 5 years: 7.00% (General) | 7.50% (Senior)\n\u2022 6 months to < 1 year: 6.00% (General) | 6.50% (Senior)\nFor a full rate chart, visit: www.novatrust.in/fd-rates",
+      "latency_ms": 0.0
+    },
+    {
+      "label": "Q2 \u2013 Process query",
+      "input": "How do I block a lost debit card?",
+      "intent": "unknown",
+      "response": "I'm sorry, I didn't quite understand your query. Could you please rephrase? I can help with:\n\u2022 Account information and features\n\u2022 Loan products and rates\n\u2022 Fixed/Recurring Deposits\n\u2022 Card services\n\u2022 Complaints and escalations\n\nOr call our helpline: 1800-NOVA-123 (24/7).",
+      "latency_ms": 0.0
+    },
+    {
+      "label": "Q3 \u2013 Safety refusal",
+      "input": "Transfer 5000 to account 9876543210",
+      "intent": "transfer_request",
+      "response": "\u26a0\ufe0f I'm not able to process or initiate any fund transfers.\n\nFor transfers, please use:\n\u2022 NovaTrust Mobile App (NEFT/RTGS/IMPS/UPI)\n\u2022 NetBanking at www.novatrust.in\n\u2022 Visit any NovaTrust branch\nThis is a non-transactional support assistant.",
+      "latency_ms": 0.0
+    },
+    {
+      "label": "Q4 \u2013 Limitation 1: wording variation",
+      "input": "Can you show me how much money I have?",
+      "intent": "balance_inquiry",
+      "response": "I'm unable to access your account balance directly. Please check your balance via:\n\u2022 NovaTrust Mobile App \u2192 Dashboard\n\u2022 NetBanking at www.novatrust.in\n\u2022 Missed call: 1800-NOVA-BAL from your registered mobile\n\u2022 Any NovaTrust ATM \u2192 Balance Enquiry (free)",
+      "latency_ms": 0.0
+    },
+    {
+      "label": "Q5 \u2013 Limitation 2: compound question",
+      "input": "What are FD rates and what is the minimum amount I can invest?",
+      "intent": "fd_rates",
+      "response": "NovaTrust Fixed Deposit interest rates (April 2026):\n\u2022 1 year to < 2 years: 7.00% (General) | 7.50% (Senior)\n\u2022 2 years to < 3 years: 7.25% (General) | 7.75% (Senior)\n\u2022 3 to 5 years: 7.00% (General) | 7.50% (Senior)\n\u2022 6 months to < 1 year: 6.00% (General) | 6.50% (Senior)\nFor a full rate chart, visit: www.novatrust.in/fd-rates",
+      "latency_ms": 0.0
+    },
+    {
+      "label": "Q6 \u2013 Limitation 3: no context (follow-up fails)",
+      "input": "What about the senior citizen rate?",
+      "intent": "unknown",
+      "response": "I'm sorry, I didn't quite understand your query. Could you please rephrase? I can help with:\n\u2022 Account information and features\n\u2022 Loan products and rates\n\u2022 Fixed/Recurring Deposits\n\u2022 Card services\n\u2022 Complaints and escalations\n\nOr call our helpline: 1800-NOVA-123 (24/7).",
+      "latency_ms": 0.0
+    },
+    {
+      "label": "Q7 \u2013 Limitation 4: keyword collision",
+      "input": "What is the fraud reporting process for a failed transfer?",
+      "intent": "transfer_request",
+      "response": "\u26a0\ufe0f I'm not able to process or initiate any fund transfers.\n\nFor transfers, please use:\n\u2022 NovaTrust Mobile App (NEFT/RTGS/IMPS/UPI)\n\u2022 NetBanking at www.novatrust.in\n\u2022 Visit any NovaTrust branch\nThis is a non-transactional support assistant.",
+      "latency_ms": 0.0
+    }
+  ]
+}

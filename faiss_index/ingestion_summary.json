@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-04-25T14:52:19.019528",
+  "documents_loaded": 4,
+  "total_chunks": 89,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 600,
+  "chunk_overlap": 100,
+  "index_path": "C:\\Users\\khaneja\\Documents\\Personal\\IITM\\Capstone Project\\Phase4_RAG\\..\\faiss_index"
+}
